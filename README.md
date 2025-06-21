@@ -8,19 +8,22 @@ To submit, open a **Pull Request (PR)** to this repository. In your PR, create a
 
 ---
 
-### Sample Submission Format
+## Sample Submission Format
 
-**Project Name:** Sample Submission by Team Gold
-**Brief Description:**
+### Project Name
+Sample Submission by Team Gold
+
+### Project Description
 Sample Submission aims to guide bootcamp participants through how they can submit their projects for judging.
 
-**Project Category:** AI / Gaming / SocialFi / DeFi / any other
+### Project Category
+AI / Gaming / SocialFi / DeFi / any other
 
-**Project Link:**
+### Project Link
 [https://samplesubmission.com](https://samplesubmission.com)
 
-**Project Codebase:**
+### Project Codebase
 [https://github.com/samplesubmission](https://github.com/samplesubmission)
 
-**Project Video:**
+### Project Video
 Loom or Google drive or YouTube link (if available)
