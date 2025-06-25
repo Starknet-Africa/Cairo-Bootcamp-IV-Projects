@@ -1,6 +1,6 @@
 # Cairo Bootcamp IV — Project Bounty Submissions
 
-All participants are expected to submit their final projects **on or before July 5th, 2025**.
+All participants are expected to submit their final projects **on or before July 7th, 2025**.
 
 If you worked in a team, the **team lead** should make the submission. For solo projects, submit individually.
 
