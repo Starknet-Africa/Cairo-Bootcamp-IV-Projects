@@ -372,4 +372,4 @@ Description: Privacy-preserving guardian wallet recovery system for StarkNet
 
 ## Project Video
 
- Loading....
+ [demo video](https://www.loom.com/share/b2014c7a4e0e4c75b511a6435557ea39?t=489&sid=b09ed369-f5da-41ad-a1f4-54e780c9f232)
