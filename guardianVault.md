@@ -340,7 +340,7 @@ Imagine a world where:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built with ❤️ for the StarkNet ecosystem. Special thanks to:
 - **StarkNet Foundation** for the incredible L2 infrastructure
