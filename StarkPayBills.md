@@ -19,3 +19,15 @@ DeFi / Real-World Utility
 
 ## 🎥 Project Video  
 [https://www.loom.com/share/51a7ece36ca94f94bf26b716b36d43f3?sid=ff688922-f292-40f6-b469-2fdd9efe6bba](https://www.loom.com/share/51a7ece36ca94f94bf26b716b36d43f3?sid=ff688922-f292-40f6-b469-2fdd9efe6bba)
+
+
+
+## Test Credentials
+
+| Layer                     | Tech                                |
+| ------------------------- | ----------------------------------- |
+| **Phone Number**          | 08011111111.                        |
+| **DST, GOtv & Startimes** | 1212121212                          |
+| **Prepaid Meter**         | 1111111111111                       |
+| **Postpaid Meter**        | 1010101010101.                      |
+
