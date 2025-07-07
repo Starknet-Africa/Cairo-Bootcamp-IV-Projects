@@ -31,3 +31,4 @@ DeFi / Real-World Utility
 | **Prepaid Meter**         | 1111111111111                       |
 | **Postpaid Meter**        | 1010101010101.                      |
 
+Any numbers aside this will result to a failed transaction and you can reclaim your tokens
