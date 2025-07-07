@@ -1,29 +1,17 @@
-# Cairo Bootcamp IV — Project Bounty Submissions
-
-All participants are expected to submit their final projects **on or before July 7th, 2025**.
-
-If you worked in a team, the **team lead** should make the submission. For solo projects, submit individually.
-
-To submit, open a **Pull Request (PR)** to this repository. In your PR, create a new README file named after your project and include all relevant submission details.
-
----
-
-## Sample Submission Format
-
 ### Project Name
-Sample Submission by Team Gold
+Zkraft by Henry
 
 ### Project Description
-Sample Submission aims to guide bootcamp participants through how they can submit their projects for judging.
+Zkraft is an on-chain smart contract platform that allows Cairo developers to post their code, describe bugs or improvement needs, and attach STRK bounties to attract solutions. Contributors submit fixes or enhancements, and once a solution is accepted by the project owner, the bounty is automatically released on-chain. This creates a trustless, transparent way to get help with real smart contract problems — from debugging to optimization — powered entirely by the StarkNet ecosystem.
 
 ### Project Category
-AI / Gaming / SocialFi / DeFi / any other
+A decentralize Cairo Contribution Platform
 
 ### Project Link
-[https://samplesubmission.com](https://samplesubmission.com)
+https://zkraft-three.vercel.app/
 
 ### Project Codebase
-[https://github.com/samplesubmission](https://github.com/samplesubmission)
+https://github.com/Henrify-git/zkraft3
 
 ### Project Video
-Loom or Google drive or YouTube link (if available)
+https://www.loom.com/share/849271ced8294cf39479750b85eee6fd?sid=8d16682b-8e1c-4035-a7fa-4761db98d49e
