@@ -18,7 +18,10 @@ https://www.loom.com/share/849271ced8294cf39479750b85eee6fd?sid=8d16682b-8e1c-40
 
 
 
+-----------------------------------------------------------------------------------------
+
 🔧 App Features – What Zkraft Offers
+
 1. 📦 On-Chain Repositories
 Developers can create repositories as smart contracts directly on StarkNet, with immutable ownership and metadata stored via IPFS.
 
