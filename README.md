@@ -11,19 +11,19 @@ To submit, open a **Pull Request (PR)** to this repository. In your PR, create a
 ## Sample Submission Format
 
 ### Project Name
-Sample Submission by Team Gold
+Starknet Donation Leaderboard by Mitchyugan
 
 ### Project Description
-Sample Submission aims to guide bootcamp participants through how they can submit their projects for judging.
+A gamified donation platform on Starknet Sepolia where users can donate STRK tokens to a shared pool, earn badges, and compete on a leaderboard. The top donator receives the exclusive 'Top Donator' badge, while other contributors earn a 'Donator' badge. The contract owner can withdraw all donated funds.
 
 ### Project Category
-AI / Gaming / SocialFi / DeFi / any other
+SocialFi
 
 ### Project Link
-[https://samplesubmission.com](https://samplesubmission.com)
+[Donation Leaderboard WebApp](https://donation-leaderboard.netlify.app)
 
 ### Project Codebase
-[https://github.com/samplesubmission](https://github.com/samplesubmission)
+[Donation leaderboard(https://github.com/MITCHYUGAN/donation-leaderboard)
 
 ### Project Video
-Loom or Google drive or YouTube link (if available)
+https://drive.google.com/file/d/1zK2p-DcSFTsn0wMFk1tbAIyKrSwiPyLe/view?usp=drive_link
