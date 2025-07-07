@@ -152,7 +152,7 @@ Smart Contract Repo
 
 ### Project Video
 
-https://github.com/hmdNetizen/boot-track-contract
+https://drive.google.com/file/d/1iVSxT25IOW-D8gJGfTSNGllZK4_fXw8I/view?usp=sharing
 
 ### 👤 Author
 
