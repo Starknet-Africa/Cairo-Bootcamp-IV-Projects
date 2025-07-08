@@ -1,5 +1,5 @@
 ### Project Name
-Zkraft by Henry
+Zkraft by Henry Okparanwankwo
 
 ### Project Description
 Zkraft is an on-chain smart contract platform that allows Cairo developers to post their code, describe bugs or improvement needs, and attach STRK bounties to attract solutions. Contributors submit fixes or enhancements, and once a solution is accepted by the project owner, the bounty is automatically released on-chain. This creates a trustless, transparent way to get help with real smart contract problems — from debugging to optimization — powered entirely by the StarkNet ecosystem.
@@ -17,6 +17,15 @@ https://github.com/Henrify-git/zkraft3
 https://www.loom.com/share/849271ced8294cf39479750b85eee6fd?sid=8d16682b-8e1c-4035-a7fa-4761db98d49e
 
 
+----------------------------------------------------------------------------------------------
+
+💡 Why Use Zkraft?
+1. Avoid wasting time in Discord chats or forums trying to get help on smart contract bugs
+
+2. Set clear goals and rewards — attract real contributions, not random advice
+
+3. Own your code and bounty on-chain — no centralized platform lock-in
+4. Get real solutions, not just opinions
 
 -----------------------------------------------------------------------------------------
 
@@ -36,17 +45,6 @@ Contributors can browse open bounties, submit solutions, and get rewarded automa
 
 3. 🔐 Trustless Payouts
 Once a solution is marked accepted by the repo owner, Zkraft automatically releases bounty tokens to the contributor — no manual transfers.
-
-----------------------------------------------------------------------------------------------
-
-💡 Why Use Zkraft?
-1. Avoid wasting time in Discord chats or forums trying to get help on smart contract bugs
-
-2. Set clear goals and rewards — attract real contributions, not random advice
-
-3. Own your code and bounty on-chain — no centralized platform lock-in
-4. Get real solutions, not just opinions
-
 
 -----------------------------------------------------------------------------------------
 
