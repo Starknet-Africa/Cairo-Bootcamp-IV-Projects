@@ -23,7 +23,7 @@ SocialFi
 [Donation Leaderboard WebApp](https://donation-leaderboard.netlify.app)
 
 ### Project Codebase
-[Donation leaderboard(https://github.com/MITCHYUGAN/donation-leaderboard)
+[Donation leaderboard](https://github.com/MITCHYUGAN/donation-leaderboard)
 
 ### Project Video
-https://drive.google.com/file/d/1zK2p-DcSFTsn0wMFk1tbAIyKrSwiPyLe/view?usp=drive_link
+[Demo Video](https://drive.google.com/file/d/1jWHW5ZbItN9JPXO118JiscwNNprgN__Z/view?usp=sharing)
